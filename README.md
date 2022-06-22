@@ -1,7 +1,5 @@
 # C-LanguageProjectCombat
-
 ## 用纯C语言实现的一些项目，C语言入门级的实战程序
-
 
 ### 学生信息管理系统
 * 版本1——mian.c源代码和exe执行程序、README.txt文件
@@ -13,3 +11,5 @@
 * exe可执行程序
 * music.mp3音频文件
 * README.txt文件
+
+## 修改中文字符名称为StudentIMS和RussianTetris，以支持git命令。
